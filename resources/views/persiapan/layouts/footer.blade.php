@@ -1,6 +1,5 @@
 <div class="container">
-    <p class="text-muted mt-3">&copy; 2021 SMK Telkom Darul Ulum <u>in collaboration with</u> BLK Jombang <span
-            class="float-end">Laravel v{{
+    <p class="text-muted mt-3">&copy; 2021 SMK Telkom Darul Ulum <span class="float-end">Laravel v{{
             Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})</span></p>
 </div>
 
